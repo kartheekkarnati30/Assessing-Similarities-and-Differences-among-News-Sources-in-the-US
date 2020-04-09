@@ -1,4 +1,5 @@
 # Assessing-Similarities-and-Differences-among-News-Sources-in-the-US
+
 1. Assessed similarities and differences between different news organizations by collecting articles using crawlers in R and implemented an SVM classifier using ‘caret’ and ‘tidytext’ packages in R to predict
 political lean of articles with 92% accuracy.
 
